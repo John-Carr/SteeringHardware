@@ -1,5 +1,0 @@
-PCB Order:
-No modifications
-SMD Order:
-Assembly: Bottom
-Quantity: 5
